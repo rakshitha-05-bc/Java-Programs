@@ -27,6 +27,8 @@ StringOperationsDemo.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20181837.png
 p1.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20182606.png
+p2.java
+https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20183042.png
 
 
 
