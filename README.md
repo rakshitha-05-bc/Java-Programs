@@ -49,8 +49,8 @@ SwingExample.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20191346.png
 ButtonExample.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20191442.png
-
-
+ImageButtonExample.java
+https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20200411.png
 
 
 
