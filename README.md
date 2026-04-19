@@ -35,6 +35,8 @@ p4.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20183335.png
 p5.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20184658.png
+p6.java
+https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20185359.png
 
 
 
