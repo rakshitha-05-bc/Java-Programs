@@ -23,6 +23,8 @@ StringOperationDemo.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20181044.png
 PerformanceTest.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20181507.png
+StringOperationsDemo.java
+https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20181837.png
 
 
 
