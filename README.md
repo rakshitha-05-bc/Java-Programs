@@ -19,6 +19,10 @@ ReverseLinkedList.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20175208.png
 SwapElements.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20175506.png
+StringOperationDemo.java
+https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20181044.png
+
+
 
 
 
