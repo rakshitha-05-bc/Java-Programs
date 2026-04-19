@@ -41,6 +41,8 @@ p7.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20185637.png
 p8.java
 https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20185837.png
+p9.java
+https://github.com/rakshitha-05-bc/Java-Programs/blob/main/Screenshot%202026-04-19%20190013.png
 
 
 
